@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "jhipstertoken",
+    "packageName": "us.pdavidson.jhipster.token",
+    "packageFolder": "us/pdavidson/jhipster/token",
+    "authenticationType": "xauth",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "cassandra",
+    "devDatabaseType": "cassandra",
+    "prodDatabaseType": "cassandra",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "rememberMeKey": "448baeff77d272bf0dca7ada1296aa88d1b796de"
+  }
+}
